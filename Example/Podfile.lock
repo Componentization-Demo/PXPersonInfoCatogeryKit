@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (25)
+  - PXPersonInfoCatogeryKit (1):
+    - CTMediator
+
+DEPENDENCIES:
+  - PXPersonInfoCatogeryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  PXPersonInfoCatogeryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  PXPersonInfoCatogeryKit: 12544ded58e3d5c5d0cca4283354d4265db4413a
+
+PODFILE CHECKSUM: ac6e890a3a3bc38cec94dcb3ea3d0fde76e05799
+
+COCOAPODS: 1.7.5

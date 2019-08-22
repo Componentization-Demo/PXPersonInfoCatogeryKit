@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PXPersonInfoCatogeryKit_Example' do
+  pod 'PXPersonInfoCatogeryKit', :path => '../'
+
+  target 'PXPersonInfoCatogeryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
